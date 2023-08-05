@@ -6,7 +6,7 @@
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 export const firebaseConfig = {
-  apiKey: "AIzaSyD6vmq1HfPQ4XCcgdjrSpZLbvW61H1mtJ0",
+  apiKey: "<==========Api key for firebase site================>",
   authDomain: "netflix-b00d7.firebaseapp.com",
   projectId: "netflix-b00d7",
   storageBucket: "netflix-b00d7.appspot.com",
