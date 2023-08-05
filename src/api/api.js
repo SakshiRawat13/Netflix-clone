@@ -1,6 +1,6 @@
 import axios from "axios";
 const URL="https://api.themoviedb.org/3";
-const API_KEY= "4b7122be0c0fded88b0e0de37b01a65b";
+const API_KEY= "<==========Api key for tmdb site================>";
 const endpoints = {
     originals: "/discover/tv",
     trending: "/trending/all/week",
